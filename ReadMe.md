@@ -1,10 +1,9 @@
-
+# Hi 👋, I'm Chetan Bhagat
 ---
 
 
 
 [![](https://visitcount.itsvg.in/api?id=Chetanbhagat21&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
 🔭 I’m currently working on AI Projects <br>👯 I’m looking to collaborate on Projects <br>🤝 I’m looking for help <br>🌱 I’m currently learning Gen-AI, Agentic-AI<br>📫 How to reach me cbhagat191@gmail.com<br><br><br><br><br>
