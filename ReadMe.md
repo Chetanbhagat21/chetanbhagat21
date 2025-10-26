@@ -1,5 +1,6 @@
 # Hi 👋, I'm Chetan Bhagat
 ---
+<h3 >I'm a passionate data scientist driven by an unyielding commitment to continuous learning. With expertise in both data analysis and machine learning, I spend my leisure absorbed in books and music, endless wellsprings of joy and inspiration</h3>
 
 
 
